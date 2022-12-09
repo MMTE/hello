@@ -1,5 +1,6 @@
 {
     "name": "mmte/hello",
+    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
             "Mmte\\Hello\\": "src"
