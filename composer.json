@@ -1,4 +1,5 @@
 {
+    "name": "mmte/hello",
     "autoload": {
         "psr-4": {
             "Mmte\\Hello\\": "src"
